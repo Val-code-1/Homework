@@ -1,0 +1,9 @@
+#body {
+  display: flex;
+  flex-direction: column;
+}
+#output {
+  border: 3px solid slateblue;
+  padding: 10px;
+  text-align: center;
+}
