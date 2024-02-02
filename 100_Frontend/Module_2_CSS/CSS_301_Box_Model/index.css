@@ -1,0 +1,16 @@
+#name {
+  color: purple;
+  font-size: 5em;
+  border: 2px solid violet;
+  width: fit-content;
+  padding: 10px;
+  /* margin-right: 60%; */
+}
+#welcome {
+  text-align: center;
+  font-size: 3em;
+}
+#homeIMG {
+  text-align: center;
+  margin-top: 20px;
+}

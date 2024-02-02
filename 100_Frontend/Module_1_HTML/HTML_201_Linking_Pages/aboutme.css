@@ -1,0 +1,9 @@
+#body {
+  background-color: brown;
+}
+#bio {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 5px solid greenyellow;
+  color: rgb(0, 145, 255);
+  font-size: 2em;
+}
