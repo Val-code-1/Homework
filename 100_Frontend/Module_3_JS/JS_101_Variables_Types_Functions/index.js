@@ -31,8 +31,13 @@ function add(a, b) {
 // *
 // /
 var string1 = "hello";
-var string2 = "world";
+var string2 = "dustin";
 insecureButton.addEventListener("click", () => add(string1, string2));
+console.log("hello there");
+console.log(string1, string2);
+
+var positive = true;
+console.log(positive);
 //FUNCTIONS
 //declare, arguments, calling
 //event listeners

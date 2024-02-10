@@ -1,0 +1,29 @@
+#title {
+  color: purple;
+  font-size: 5em;
+  border: 2px solid violet;
+  width: fit-content;
+  padding: 10px;
+  margin-top: 2px;
+  margin-bottom: 40px;
+}
+#titleDiv {
+  background-color: aqua;
+  padding: 20px;
+}
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  font-size: 4vh;
+  margin: 30px;
+}
+.questions {
+  font-size: 2em;
+  text-align: center;
+  margin: 18px;
+}
+.answerButtons {
+  font-size: 2em;
+  display: block;
+  margin: auto;
+}
